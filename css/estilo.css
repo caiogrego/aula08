@@ -1,0 +1,32 @@
+* {
+    font-family: Arial;
+}
+
+p {
+    color: blue;
+    font-family:  Times;
+    font-size: 12pt;
+}
+
+.botao {
+    color: gray;
+    text-decoration: none;
+    background-color: aquamarine;
+    border: solid gray 1px;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+#botao {
+    max-width: 30pt;
+}
+
+.input {
+    margin: 0.15cm;
+}
+
+#meuForm {
+    background-color: lightgray;
+    padding: 0.5cm;
+    width: 7cm;
+}
